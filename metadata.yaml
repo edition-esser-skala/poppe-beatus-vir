@@ -1,0 +1,17 @@
+composer:
+  last: Poppe
+  first: František Ludvík
+title: Beatus vir
+genre: psalm
+scoring: S (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-Dl
+    shelfmark: Mus.3610-D-3
+    date: 1725–1733
+    rism: 212006843
+    url: https://digital.slub-dresden.de/id426604210
+    license: public domain
+    principal: true
+imslp:
