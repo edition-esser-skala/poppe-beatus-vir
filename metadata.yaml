@@ -3,7 +3,7 @@ composer:
   first: František Ludvík
 title: Beatus vir
 genre: psalm
-scoring: S (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+scoring: S (solo), 2 S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
 license: cc-by-sa-4.0
 sources:
   B1:
@@ -14,4 +14,4 @@ sources:
     url: https://digital.slub-dresden.de/id426604210
     license: public domain
     principal: true
-imslp:
+imslp: Beatus_vir_in_G_minor_(Poppe%2C_František_Ludvík)
